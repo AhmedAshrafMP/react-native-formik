@@ -63,7 +63,7 @@
     }
   },
   "peerDependencies": {
-    "formik": ">= 2.4.x < 2"
+    "formik": ">= 2.4.x < 3"
   },
   "eslintConfig": {
     "extends": "bambi/native",
